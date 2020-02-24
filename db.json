@@ -1,0 +1,26 @@
+[
+  {
+    "restaurant_id": 1,
+		"name": "BU resturant",
+    "address": "1 commonwealth ave",
+    "zipcode": 02215,
+		"phone": 12341256,
+		"cuisine_type": "chinese"
+  },
+    {
+    "restaurant_id": 2,
+		"name": "ABC cafe",
+    "address": "2 commonwealth ave",
+    "zipcode": 02215,
+		"phone": 23452167,
+		"cuisine_type": "american"
+  },
+    {
+    "restaurant_id": 3,
+		"name": "XYZ pizza",
+    "address": "3 commonwealth ave",
+    "zipcode": 02215,
+		"phone": 1324231,
+		"cuisine_type": "indian"
+  },
+]
