@@ -1,4 +1,5 @@
-[
+{
+  "allrestaurant": [
     {
         "restaurant_id": 1,
         "name": "BU resturant",
@@ -24,3 +25,5 @@
         "cuisine_type": "indian"
     }
 ]
+
+}
