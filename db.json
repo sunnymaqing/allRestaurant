@@ -25,5 +25,11 @@
         "cuisine_type": "indian"
     }
     ],
-  "time_slot" : [{"1-2" : "1pm - 2pm"},{"2-3" : "2pm - 3pm"} ]
+  "time_slot" : [
+    {
+      "1-2" : "1pm - 2pm"
+    },
+    {"2-3" : "2pm - 3pm"
+    } 
+  ]
 }
