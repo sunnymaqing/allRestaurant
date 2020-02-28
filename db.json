@@ -25,5 +25,5 @@
         "cuisine_type": "indian"
     }
     ],
-  "time_slot" : ["1-2", "2-3", "3-4", "4-5"]
+  "time_slot" : [{"1-2" : "1pm - 2pm"},{"2-3" : "2pm - 3pm"} ]
 }
